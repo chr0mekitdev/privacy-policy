@@ -4,7 +4,7 @@ title: Privacy Policy
 
 Privacy Policy
 
-chr0mekitdev operates the website "Webpage to Markdown". I take your privacy seriously. To better protect your privacy, I provide this privacy policy notice explaining the way your personal information is collected and used.
+chr0mekitdev operates this website. I take your privacy seriously. To better protect your privacy, I provide this privacy policy notice explaining the way your personal information is collected and used.
 
 Collection of Routine Information
 
